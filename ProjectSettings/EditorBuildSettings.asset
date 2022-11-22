@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CARgame.unity
+    guid: 0484056cc58cda74e9473fae84152ff3
   m_configObjects: {}
